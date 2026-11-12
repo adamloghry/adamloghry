@@ -1,6 +1,8 @@
-Senior Staff SRE and SRE lead for Google Kubernetes Engine, based in Seattle. <sub><em>Opinions are my own, not that of my employer.</em></sub>
+Senior Staff SRE and SRE lead for Google Kubernetes Engine, based in Seattle.
 
 This account is mostly one-way mirror from [16384.dev](https://16384.dev), but not entirely. Reach out via contact info on [akl.dev](https://akl.dev) if you need something.
+
+<sub><em>Opinions are my own, not that of my employer.</em></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="forest-dark.svg">
